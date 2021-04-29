@@ -27,5 +27,5 @@ All the files in this repository can be run in Python 3.8.
 	 subset, solve Problem (3)-(5) for a wide grid of values (lambda^L,lambda^G) on the
 	 training subset after scaling and make predictions on the test subset after rescaling. 
 
-In each specific py file, a more detailed description of the program, such as the inputs and 
+In each specific .py file, a more detailed description of the program, such as the inputs and 
 outputs, can be found.
