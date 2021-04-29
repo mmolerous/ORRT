@@ -1,5 +1,5 @@
 Repository ORRT contains the code for the approach proposed by R. Blanquero, E. Carrizosa,
-C. Molero-Río and D. Romero Morales. A piece of this research can be found at:
+C. Molero-Río and D. Romero Morales in:
 https://www.researchgate.net/publication/341099512_On_Sparse_Optimal_Regression_Trees
 
 All the files in this repository can be run in Python 3.8.
